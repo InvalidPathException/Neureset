@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../icons/device.svg</file>
+        <file>../icons/down.svg</file>
+        <file>../icons/ok.svg</file>
+        <file>../icons/pause.svg</file>
+        <file>../icons/power.svg</file>
+        <file>../icons/start.svg</file>
+        <file>../icons/up.svg</file>
+        <file>../icons/stop.svg</file>
+        <file>../icons/false.svg</file>
+        <file>../icons/true_.svg</file>
+        <file>../icons/menu.svg</file>
+        <file>../icons/battery.svg</file>
+        <file>../icons/low_power.svg</file>
+        <file>../icons/pc.svg</file>
+    </qresource>
+</RCC>
